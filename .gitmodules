@@ -10,3 +10,6 @@
 [submodule "test1"]
 	path = test1
 	url = https://github.com/lsealedl/test1.git
+[submodule "api_test"]
+	path = api_test
+	url = https://github.com/Amsomeboys/api_test.git
