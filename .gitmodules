@@ -1,3 +1,12 @@
 [submodule "api-app"]
 	path = api-app
 	url = https://github.com/lsealedl/api-app.git
+[submodule "navi-app"]
+	path = navi-app
+	url = https://github.com/lsealedl/navi-app.git
+[submodule "my-app"]
+	path = my-app
+	url = https://github.com/lsealedl/my-app.git
+[submodule "test1"]
+	path = test1
+	url = https://github.com/lsealedl/test1.git
