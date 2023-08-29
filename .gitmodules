@@ -13,3 +13,6 @@
 [submodule "api_test"]
 	path = api_test
 	url = https://github.com/Amsomeboys/api_test.git
+[submodule "news-api"]
+	path = news-api
+	url = https://github.com/lsealedl/news-api.git
