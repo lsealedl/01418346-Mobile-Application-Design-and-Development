@@ -28,3 +28,6 @@
 [submodule "work-memo-app"]
 	path = work-memo-app
 	url = https://github.com/lsealedl/work-memo-app.git
+[submodule "mobile-final-project"]
+	path = mobile-final-project
+	url = https://github.com/Amsomeboys/mobile-final-project.git
