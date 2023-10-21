@@ -19,3 +19,12 @@
 [submodule "memo-app"]
 	path = memo-app
 	url = https://github.com/lsealedl/memo-app.git
+[submodule "hook-app"]
+	path = hook-app
+	url = https://github.com/lsealedl/hook-app.git
+[submodule "araigordai-app"]
+	path = araigordai-app
+	url = https://github.com/lsealedl/araigordai-app.git
+[submodule "work-memo-app"]
+	path = work-memo-app
+	url = https://github.com/lsealedl/work-memo-app.git
